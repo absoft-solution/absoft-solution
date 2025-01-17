@@ -27,22 +27,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="#" target="blank">
+  <a href="https://twitter.com/info.ibnanwar7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://linkedin.com/in/abdullah01092k" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://fb.com/info.ibnanwar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://www.youtube.com/c/absoft-solution" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="#" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://wa.me/923179645670" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
   <a href="#" target="blank">
