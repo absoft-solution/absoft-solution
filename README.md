@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=absoft-solution" alt="absoft-solution" />
+    <img src="https://github-profile-trophy.vercel.app/?username=absoft-solution&theme=onedark&row=2&column=6" alt="absoft-solution" />
   </a> 
 </p>
 
