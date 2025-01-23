@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah (@absoft-solution)</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Anwar (@absoft-solution)</h1>
 <h3 align="center">Mobile App Developer & AI Enthusiast</h3>
 
 <p align="left"> 
